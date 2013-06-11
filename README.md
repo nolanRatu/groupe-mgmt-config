@@ -6,5 +6,6 @@ This repo holds config files related to machine: groupe-mgmt
 
 - Sudoers
 - Bacula-dir.conf
+- Hosts
 
 
