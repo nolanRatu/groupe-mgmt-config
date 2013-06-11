@@ -5,4 +5,6 @@ This repo holds config files related to machine: groupe-mgmt
 ### Config Files
 
 - Sudoers
+- Bacula-dir.conf
+
 
